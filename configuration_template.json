@@ -1,0 +1,14 @@
+{
+	"credentials": {
+		"device01": {
+			"username": "",
+			"password": "",
+			"token": ""
+		},
+		"device02": {
+			"username": "",
+			"password": "",
+			"token": ""
+		}
+	}
+}
